@@ -1,4 +1,4 @@
 name: ex03_library
+version: 0.1.0
+author: Maxim Fournier-Giguère
 description: A sample command-line application
-#dependencies:
-#  unittest: any
